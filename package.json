@@ -1,0 +1,37 @@
+﻿{
+  "name": "nativescript-azure-mobile-basic",
+  "version": "0.1.2",
+  "description": "A NativeScript module to read Azure Mobile Services backend table data",
+  "main": "azuremobilebasic.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexziskind1/NativeScript-Azure-Mobile-Services-Module-Basic.git"
+  },
+  "keywords": [
+    "nativescript",
+	"azure",
+	"mobile"
+  ],
+  "author": {
+    "name": "Alexander Ziskind",
+    "email": "alex@nuvious.com",
+    "url": "http://www.nuvious.com/"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/alexziskind1/NativeScript-Azure-Mobile-Services-Module-Basic/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/alexziskind1/NativeScript-Azure-Mobile-Services-Module-Basic/issues"
+  },
+  "homepage": "https://github.com/alexziskind1/NativeScript-Azure-Mobile-Services-Module-Basic",
+  "gitHead": "cceaa502e21645fd4e111295124ba384dde8e688",
+  "scripts": {},
+
+  "maintainers": [
+    {
+      "name": "alexziskind1",
+      "email": "alex@nuvious.com"
+    }
+  ]
+}
